@@ -4,3 +4,23 @@
     box-sizing: border-box;
     font-family: 'PT Sans', sans-serif;
 }
+.flex{
+    display: flex;
+}
+.space-between{
+    justify-content: space-between;
+}
+/* header */
+.container{
+        height: 130px;
+        width: 100%;
+        background-color: rgb(136, 56, 56);
+        justify-content: space-between;
+}
+.col-box{
+    height: 100%;
+    width: 20%;
+    background-color: aqua;
+}
+/* main */
+/* footer */
