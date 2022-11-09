@@ -35,13 +35,26 @@
 /* header */
 .container{
         height: 130px;
-        background-color: rgb(136, 56, 56);
+        background-color: rgba(0,132,253,255);
+}
+.logo{
+    padding-top: 30%;
+    padding-left: 20%;
+    background-color: rgba(0,132,253,255);
 }
 .col-box{
     height: 100%;
     width: 20%;
-    background-color: aqua;
+    background-color: rgba(0,132,253,255);
 }
+.bar-3{
+    color: white;
+    position: relative;
+    top: 45px;
+    left: 50px;
+    font-size: 30px;
+}
+
 /* main */
 /* FIRST BOX */
 .first-container{
