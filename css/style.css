@@ -29,6 +29,9 @@
 .padding-top-10{
     padding-top: 10%;
 }
+.width-90{
+    width: 90%;
+}
 /* header */
 .container{
         height: 130px;
@@ -48,12 +51,31 @@
 .big-first-box{
     background-color: chartreuse;
     height: 550px;
-    width: 90%;
 }
-.first-little-box{
+.box{
     height: 400px;
-    width: 90%;
     background-color: chartreuse;
     margin-top: 5%;
 }
+/* SECOND BOX */
+.second-container{
+    height: 1000px;
+    background-color: blueviolet;
+}
+/* THIRD BOX */
+.third-container{
+    height: 1900px;
+    background-color: darkolivegreen;
+}
+/* FOURTH BOX */
+.fourth-container{
+    height: 2800px;
+    background-color: royalblue;
+}
+/* FIFTH BOX */
+.fifth-container{
+    height: 1500px;
+    background-color: blue;
+}
+
 /* footer */
