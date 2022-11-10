@@ -32,6 +32,35 @@
 .width-90{
     width: 90%;
 }
+.blue-box{
+    background-color: rgba(181,221,255,255);
+}
+.blue{
+    color: rgba(0,132,253,255);
+    text-align: center;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
+.padding-box{
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+.white-color{
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
+.background-white{
+    background-color: white;
+}
+.padding-t-l-b-10{
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
 /* header */
 .container{
         height: 130px;
@@ -55,30 +84,17 @@
     left: 50px;
     font-size: 30px;
 }
-.blue{
-    color: rgba(0,132,253,255);
-    text-align: center;
-}
-.space-evenly{
-    justify-content: space-evenly;
-}
-.padding-box{
-    padding-left: 30px;
-    padding-top: 30px;
-    padding-right: 30px;
-}
 /* main */
 /* FIRST BOX */
 .first-container{
-    height: 3500px;
+    height: auto;
 }
 .big-first-box{
     background-color: rgba(181,221,255,255);
     height: 900px;
 }
 .box{
-    height: 600px;
-    background-color: rgba(181,221,255,255);
+    height: 800px;
     margin-top: 5%;
 }
 .text-first{
@@ -96,34 +112,41 @@
 }
 /* SECOND BOX */
 .second-container{
-    height: 1400px;
-    background-color: blueviolet;
+    height: auto;
+    background-color: rgba(151,146,228,255);
 }
 .item-first{
     font-size: 110px;
 }
+.arrow-down{
+    background-color: rgba(151,146,228,255);
+    padding: 1%;
+    width: 5%;
+    border-radius: 50%;
+    margin: auto;
+}
 /* THIRD BOX */
 .third-container{
-    height: 2600px;
+    height: auto;
     background-color: darkolivegreen;
 }
 /* FOURTH BOX */
 .fourth-container{
-    height: 3900px;
+    height: auto;
     background-color: royalblue;
 }
 /* FIFTH BOX */
 .fifth-container{
-    height: 2000px;
+    height: auto;
     background-color: blue;
 }
 /* SIXTH BOX */
 .sixth-container{
-    height: 1200px;
+    height: auto;
     background-color: darkolivegreen;
 }
 .box-sixth{
-    height: 1000px;
+    height: auto;
     background-color: lawngreen;
 }
 /* footer */
