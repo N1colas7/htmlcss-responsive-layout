@@ -14,9 +14,20 @@
     .margin-first{
         margin-top: 10%;
     }
+    
+    /* third box */
+    .media992{
+        flex-direction: row;
+    }
+    .media992-text{
+        padding-top: 5%;
+    }
+    .img-third{
+        height: 50%;
+        width: 100%;
+    }
     .box{
         height: auto;
+        padding: 5%;
     }
-    /* third box */
-
 }
