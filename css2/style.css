@@ -19,6 +19,10 @@
     .media992{
         flex-direction: row;
     }
+    .col-3{
+        display: flex;
+        flex-direction: column;
+    }
     .media992-text{
         padding-top: 5%;
     }
@@ -28,6 +32,20 @@
     }
     .box{
         height: auto;
-        padding: 5%;
     }
+    /* fourth box */
+    .fourth-row{
+        display: flex;
+        flex-direction: row;
+        padding: 5%;
+        width: calc( 100% / 3 * 2);
+    }
+    .fourth-col{
+        padding-left: 3%;
+    }
+    .width-fourth{
+        width: 350px;
+        height: 100%;
+    }
+    /* fifth box */
 }
