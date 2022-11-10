@@ -55,26 +55,31 @@
     left: 50px;
     font-size: 30px;
 }
-
-/* main */
-/* FIRST BOX */
-.first-container{
-    height: 2800px;
+.blue{
+    color: rgba(0,132,253,255);
+    text-align: center;
 }
-.big-first-box{
-    background-color: rgba(181,221,255,255);
-    height: 900px;
+.space-evenly{
+    justify-content: space-evenly;
+}
+.padding-box{
     padding-left: 30px;
     padding-top: 30px;
     padding-right: 30px;
 }
+/* main */
+/* FIRST BOX */
+.first-container{
+    height: 3500px;
+}
+.big-first-box{
+    background-color: rgba(181,221,255,255);
+    height: 900px;
+}
 .box{
-    height: 400px;
+    height: 600px;
     background-color: rgba(181,221,255,255);
     margin-top: 5%;
-}
-.title-first{
-    color: rgba(0,132,253,255) ;
 }
 .text-first{
     color: rgba(90,110,127,255);
@@ -91,31 +96,34 @@
 }
 /* SECOND BOX */
 .second-container{
-    height: 1000px;
+    height: 1400px;
     background-color: blueviolet;
+}
+.item-first{
+    font-size: 110px;
 }
 /* THIRD BOX */
 .third-container{
-    height: 1900px;
+    height: 2600px;
     background-color: darkolivegreen;
 }
 /* FOURTH BOX */
 .fourth-container{
-    height: 2800px;
+    height: 3900px;
     background-color: royalblue;
 }
 /* FIFTH BOX */
 .fifth-container{
-    height: 1500px;
+    height: 2000px;
     background-color: blue;
 }
 /* SIXTH BOX */
 .sixth-container{
-    height: 1050px;
+    height: 1200px;
     background-color: darkolivegreen;
 }
 .box-sixth{
-    height: 800px;
+    height: 1000px;
     background-color: lawngreen;
 }
 /* footer */
